@@ -1,0 +1,26 @@
+/*
+Write a c program to display the \n
+Input Format
+Nill
+
+Constraints
+Nill
+
+Output Format
+Display the \n
+
+Sample Output 0
+\n
+*/
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
+
+public class Solution {
+
+    public static void main(String[] args) {
+        System.out.println("\\n");
+    }
+}
